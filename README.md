@@ -1,5 +1,10 @@
 # antinna
 
+```bash
+# to generate locale translations
+dart  run antinna:generate
+```
+
 Find, compare, and buy building materials easily. All in one place.
 
 ## Getting Started

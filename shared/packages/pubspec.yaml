@@ -11,11 +11,16 @@ resolution: workspace
 dependencies:
   flutter:
     sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_localizations:
+    sdk: flutter
+  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

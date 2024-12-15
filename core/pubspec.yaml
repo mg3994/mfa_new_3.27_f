@@ -1,5 +1,5 @@
 name: core
-description: "A new Flutter package project."
+description: "Core functionalities and services for the modular Flutter application."
 version: 0.0.1
 publish_to: none
 homepage:
@@ -12,6 +12,9 @@ resolution: workspace
 dependencies:
   flutter:
     sdk: flutter
+  l10n:
+  packages:
+  preferences:
 
 dev_dependencies:
   flutter_test:
